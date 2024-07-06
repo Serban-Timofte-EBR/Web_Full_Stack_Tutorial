@@ -1,0 +1,3 @@
+npm install @nestjs/mongoose mongoose
+npm install class-validator class-transformer
+OPTIONAL: npm install @nestjs/pino
